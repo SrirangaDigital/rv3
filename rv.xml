@@ -1764,10 +1764,12 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>அமெரிக்காவில் வேதாந்தப் பிரசாரம் சுவாமி பிரகாஷானந்தர்</title>
+				<title>அமெரிக்காவில் வேதாந்தப் பிரசாரம்</title>
 				<feature></feature>
 				<page>078-080</page>
-				<allauthors/>
+				<allauthors>
+					<author>பிரகாஷானந்தர், சுவாமி</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>இந்தியாவிற்கு கொண்டு வந்த செய்தி</title>
@@ -105924,7 +105926,7 @@
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>நாமும் ஐடாயு தான்!</title>
+				<title>நாமும் ஜடாயு தான்!</title>
 				<feature></feature>
 				<page>032-035</page>
 				<allauthors>
@@ -111345,5 +111347,3679 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="08" month="08" year="2012">
+			<entry>
+				<title>எல்லாம் கண்ணனுக்கே! </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>002-002</page>
+				<allauthors>
+					<author> சுவாமி விவேகானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ணர் இன்றும் இருக்கிறாரா? </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>003-005</page>
+				<allauthors>
+					<author> சுவாமி சேதனானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீகிருஷ்ண கர்ணாம்ருதம் </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author> ரெ.வெ.ராஜேஸ்வரராவ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆம்புலன்ஸ் அலறத்தான் வேண்டுமா?  </title>
+				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு...</feature>
+				<page>009-011</page>
+				<allauthors>
+					<author>சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சோர் பாபா </title>
+				<feature>சிறப்புச் சிறுகதை-கரு உண்மை; உரு கற்பனை</feature>
+				<page>012-015</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அன்பான கண்ணனின் அசுர விளையாட்டு </title>
+				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு...</feature>
+				<page>016-018</page>
+				<allauthors>
+					<author> பேராசிரியர் ரமேஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இறைவனுக்கு இந்தப் பூஜைதான் பிடிக்குமோ!</title>
+				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு...</feature>
+				<page>019-019</page>
+				<allauthors>
+					<author> சுவாமி கமலாத்மானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தீய பழக்கங்களிலிருந்து விடுபடுவது எப்படி? </title>
+				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு...</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> என்.கணேசன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுவர் பகுதி படக்கதை : ஸ்ரீஜெயதேவர் பகுதி 1</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஸ்ரீதுளஸி அஷ்டோத்தர சதநாம ஸ்தோத்திரம் தமிழாக்கம்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>027-029</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஒரு வித்தியாசமான சிந்தனை : நல்ல நடிகர்களா நாம்? </title>
+				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு...</feature>
+				<page>030-034</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இதுதான் பரவச நிலை </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>035-035</page>
+				<allauthors>
+					<author> சுவாமி சாரதேஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படைப்பல்ல; படைப்பவனே முக்கியம்!</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>036-038</page>
+				<allauthors>
+					<author>பே.சா.கர்ணசேகரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தேசியக் கொடி தந்த தேசபக்தர் </title>
+				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு...</feature>
+				<page>039-039</page>
+				<allauthors>
+					<author> ராஜி ரகுநாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பீஷ்மர் உபதேசிக்கிறார்! </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>040-043</page>
+				<allauthors>
+					<author> ‘அண்ணா’ சுப்ரமண்யம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுதந்திர ஆசிரியரா? அடிமை ஆசிரியரா? </title>
+				<feature>ஆசிரியர்  உலகம்</feature>
+				<page>044-045</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தோல்வி உனக்கில்லை, தோழா! </title>
+				<feature>குறும்படம் தரும் அரும்பாடம்</feature>
+				<page>046-047</page>
+				<allauthors>
+					<author> எஸ்ஸெல்வி. மூர்த்தி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : ஆறிய சூப் </title>
+				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு...</feature>
+				<page>048-048</page>
+				<allauthors>
+					<author> ஜி. மோகனவேலு</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="09" year="2012">
+			<entry>
+				<title>என்றும் நம்மைக் காக்கும் குருதேவர்  </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கணபதியின் பிரபாவம் </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>005-007</page>
+				<allauthors>
+					<author> பூசை. ச. அருணவசந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புத்திசாலியான ஒரு சிறுவனின் துணிவுமிக்க கதை : கோகுல் </title>
+				<feature>சிறப்புச் சிறுகதை-கரு உண்மை; உரு கற்பனை</feature>
+				<page>008-010</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தேசபக்தியூட்டும் ஒரு குறும்படம் : மௌன வீரம்  </title>
+				<feature>குறும்படம் தரும் அரும்பாடம்</feature>
+				<page>011-011</page>
+				<allauthors>
+					<author> ஷ்யாமா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர்களின் கேள்விகளுக்கு பளிச் பதில்கள் : +2 என்றால் என்ன? </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>012-013</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>முதல் மாணவனாகும் ரகசியம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>014-017</page>
+				<allauthors>
+					<author> எட்வின் மற்றும் சாலி கீஸ்டர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஈரோடு மாவட்ட அரசுப் பள்ளிகளுக்கு ஸ்ரீராமகிருஷ்ண விஜயம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>018-019</page>
+				<allauthors>
+					<author> ஸ்ரீபாதராஜன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இயற்கை செய்வதெல்லாம் தியாகமே! </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> பைரவ் சுப்ரமண்யம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுவர் பகுதி வண்ணப் படக்கதை : ஸ்ரீஜெயதேவர் பகுதி 2 </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>023-026</page>
+				<allauthors>
+					<author> ஓவியம் : சங்கர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஓர் உண்மைச் சம்பவம்: நான் ஒரு தாய் தெரியுமா! </title>
+				<feature>அன்னையர்  உலகம்</feature>
+				<page>027-028</page>
+				<allauthors>
+					<author> கே.நிருபமா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பண்டிட் நேருவிற்கு மாலை அணிவித்த ஒரு பண்டிட்</title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>029-029</page>
+				<allauthors>
+					<author>எம்.வி.மோகன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மழை வேண்டி ஒரு வேண்டுதல்  </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>029-030</page>
+				<allauthors>
+					<author> கு.செ.இராமசாமி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தமிழில் ஓதி அருளைப் பெற வைக்கும் விநாயக ஸ்துதி </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>031-031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>உண்மையான கல்வியை நோக்கி... </title>
+				<feature>ஆசிரியர்  உலகம்</feature>
+				<page>032-036</page>
+				<allauthors>
+					<author> டாக்டர் தினேஷ்சிங், டில்லி பல்கலைக் கழகத் துணைவேந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர்: மக்கட்பேறு இல்லாதவள் கட்டிய கோவிலில் மக்கள் கூட்டம்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>037-037</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>தாய்மையின் நிறைவு </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>038-039</page>
+				<allauthors>
+					<author> நாரை ச. நெல்லையப்பன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுவர்களுடன் சுவாமி விவேகானந்தர் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>040-043</page>
+				<allauthors>
+					<author> ராஜவிட்டல்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : ஒன்று நடக்கும்; ஒன்று நடக்காது! </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>044-045</page>
+				<allauthors>
+					<author> டி.எம்.சுந்தரராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ணானந்தரின் 150 வது ஜெயந்தி விழா </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>046-046</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="10" month="10" year="2012">
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ண அவதாரச் சிறப்பு</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>003-006</page>
+				<allauthors>
+					<author>மஹாரண்யம் ஸ்ரீமுரளீதர சுவாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர்களுக்கு ஓஜஸும் தேஜஸும் தேவை </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>007-008</page>
+				<allauthors>
+					<author> குஜராத் முதல்வர் திரு. நரேந்திரமோடி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆங்கில கலெக்டருக்கு அருளிய தேவி </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>009-00-1</page>
+				<allauthors>
+					<author> மும்பை ராமகிருஷ்ணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவிகளுக்கு...</title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>00null-009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர்: கின்னஸ்  ரெக்கார்டில் ஓர் இந்து மதச் சாதனை </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>010-010</page>
+				<allauthors>
+					<author> விஜயஸ்ரீ ராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தன்னம்பிக்கைத் தங்கம் : இத்தனை சிரமத்திலும் சீனத்துச் சிறுமியின் சிரிப்பதைப் பாருங்கள்!</title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>011-011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>தேசிய மாணவர்களை உருவாக்குவோம்! </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>012-015</page>
+				<allauthors>
+					<author> சுவாமி கௌதமானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி : படிப்பைத் தவிர வேறு எண்ணம் வந்தால்....? </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>016-018</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஏழை மாணவிகளுக்காக ஒரு பள்ளி </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>019-019</page>
+				<allauthors>
+					<author> பிரகதா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வயதானவர்களுக்கு ஓர் அரிய சேவை </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> ராஜிரகுநாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கால் இல்லாவிட்டால் என்ன, கை இருக்கே! </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>023-023</page>
+				<allauthors>
+					<author> ஓஜஸ்புத்திரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ரூபாய் 14 லட்சம் பரிசுள்ள தேசிய இளைஞர் தினப் போட்டி 2013</title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>024-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>அவதாரங்களின் ஆதார சக்திகள் </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>027-028</page>
+				<allauthors>
+					<author> நஜன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீகமலாம்பிகை அஷ்டகம் தமிழாக்கம்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>029-031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>அழைத்தது யார்? </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>032-036</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நீங்கள் சொர்க்கத்தில் இருக்கிறீர்கள்! </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>037-039</page>
+				<allauthors>
+					<author> பேராசிரியர் ஒய்.ஹரிஹரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கடவுள் எப்போது சிரிக்கிறார்? எப்போது அழுகிறார்? </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>040-043</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுவர் பகுதி வண்ணப் படக்கதை : குருவிற்கு பகவானைக் காட்டிய சீடர்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>044-047</page>
+				<allauthors>
+					<author> ஓவியம் : சங்கர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : விசித்திர ஆசை! </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>048-048</page>
+				<allauthors>
+					<author> நெ.இராமன்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="11" year="2012">
+			<entry>
+				<title>என்றும் நம்மைக் காக்கும் குருதேவர்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>003-003</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ண விஜயத்திற்கு சங்க குருவின் ஆசி </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>004-004</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஆந்திர மாநிலத்தில் விவேகானந்த ரத யாத்திரை </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>005-005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஒரு பத்திரிகையாளரின் பார்வையில்.... </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>006-006</page>
+				<allauthors>
+					<author> மதி, தினமணி கார்டூனிஸ்ட்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கோவையில் குருதேவர் கோயில் கும்பாபிஷேகம் </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>007-007</page>
+				<allauthors>
+					<author> மஹிமா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒளியை வணங்குவோம்! </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>008-010</page>
+				<allauthors>
+					<author> ராஜிரகுநாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தர் பற்றிய முதல் 3டி திரைப்படம்</title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>011-011</page>
+				<allauthors>
+					<author>சுவாமி தக்ஷஜானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அது யாருக்குத் தேவை? </title>
+				<feature>சிறப்புச் சிறுகதை-கரு உண்மை; உரு கற்பனை </feature>
+				<page>012-013</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>என்ன சொல்கிறது இஸ்லாம்? </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>014-017</page>
+				<allauthors>
+					<author> ‘கவிக்கோ’ அப்துல் ரகுமான்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படி நடை கூடம் முற்றம் வெளி </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>018-020</page>
+				<allauthors>
+					<author> ‘சொல்வேந்தர்’ சுகி சிவம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர் : பரந்தாமனைப் போல் பரமசிவனும்</title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>021-022</page>
+				<allauthors>
+					<author>தஞ்சை ஜெயபாலன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுவர் பகுதி வண்ணப் படக்கதை:  தர்மக்ஷேத்திரம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>023-026</page>
+				<allauthors>
+					<author> ஓவியம் : சிவபிரசாத்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி : கடவுள் துகள் பற்றி என்ன நினைக்கிறீர்கள்? </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>027-030</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிருங்கேரி ஆச்சாரியரிடம் ஒரு விண்ணப்பம்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>031-031</page>
+				<allauthors>
+					<author>சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தீபாவளி புதுச் சிந்தனைகள் </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>032-033</page>
+				<allauthors>
+					<author> ராஜ விட்டல்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>குட்டிக் கதைகள் : சிட்டுக்குருவி தரும் பாடம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>034-034</page>
+				<allauthors>
+					<author> சுவாமி கமலாத்மானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கந்தன் இருக்க, கவலையேன்? </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>035-037</page>
+				<allauthors>
+					<author> பருத்தியூர் டாக்டர் கே.சந்தானராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு வேதாந்தக் கதை: ஓர் அரக்கி பெற்ற ஞானம்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>038-039</page>
+				<allauthors>
+					<author>ரிஷிகேஷ் சுவாமி சிவானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உயிர் கொடுத்து உழைக்கும் ஆசிரியர்கள் </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>040-042</page>
+				<allauthors>
+					<author> விஜயா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : தம்பி தயங்காதே! </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> சின்ன அண்ணாமலை</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தசாவதாரப் பிரார்த்தனை</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>044-045</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>விஜயத்தின் வளர்ச்சியில் இன்னும் ஒரு மைல்கல் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>046-046</page>
+				<allauthors>
+					<author> ஸ்ரீபாதராஜன்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="12" year="2012">
+			<entry>
+				<title>உலகிற்கு ஸ்ரீராமகிருஷ்ணரின் கொடை  </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> சுவாமி பஜனானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு பூனையின் குடும்பம் </title>
+				<feature>புதிய பகுதி : உள்ளுணர்வூட்டும் கதைகள்</feature>
+				<page>005-005</page>
+				<allauthors>
+					<author> நூதனா </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சந்நியாசத்தின் மேன்மை </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>006-007</page>
+				<allauthors>
+					<author>சுவாமி அத்புதானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இளைஞர் பகுதி: அணில்களே கட்டிய பாலம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>008-011</page>
+				<allauthors>
+					<author> வெங்கடேஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பாரதியாரின் உடற்கல்வி </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>012-013</page>
+				<allauthors>
+					<author> ஆர்.பி.சாரதி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>யாரிடமும்...! </title>
+				<feature>சிறுகதை-கரு உண்மை; உரு கற்பனை </feature>
+				<page>014-017</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுயமுன்னேற்றப் பகுதி: ஒரு ராணுவ வீரரின் சாகசம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>018-018</page>
+				<allauthors>
+					<author> எஸ். ரமேஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நீ மூன்றாவதாக இரு! </title>
+				<feature>அன்னையர் உலகம்</feature>
+				<page>019-019</page>
+				<allauthors>
+					<author> டி.எம்.எஸ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி :எனக்கு ஈகோ அதிகம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுவர் பகுதி வண்ணப் படக்கதை : தீது வந்தாலும் திடம் பெறும் பக்தர்கள்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஏ மனமே!</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>027-028</page>
+				<allauthors>
+					<author> துளசிதாசர் அருளிய ‘வினயபத்ரிகா’விலிருந்து</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விநாடி வினா: ஸ்ரீராமகிருஷ்ணரின் எளிய உதாரணங்கள் </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>029-030</page>
+				<allauthors>
+					<author> சுபத்ரா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமிஜியின் 150வது பிறந்த ஆண்டு விழா நிகழ்ச்சிகள்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>031-031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சந்தோஷமான மாணவன் </title>
+				<feature>குறும்படம் தரும் அரும் பாடம்</feature>
+				<page>032-034</page>
+				<allauthors>
+					<author> வி. மங்கையர்க்கரசி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர்: தொண்டைமான் அனுக்கிரகம் பெற்ற தலம்</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>035-036</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஒரு புதுச் சிந்தனை: வாசகன் என்பவன் யார்? </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>037-037</page>
+				<allauthors>
+					<author> ஜானி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பிரகதாரண்யக உபநிஷத்தின் சாரம் </title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>038-039</page>
+				<allauthors>
+					<author> ரா.ஸ்ரீ.தேசிகன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கற்பித்தலில் கவனிக்க வேண்டிய நான்கு</title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>040-042</page>
+				<allauthors>
+					<author>டாக்டர் சி.பாலாஜி, ஐ.ஐ.டி.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : தலைவலிக்குக் காரணம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> நெ.இராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மகான்கள் நமக்கு என்ன செய்கிறார்கள்?</title>
+				<feature>பக்தர்களுக்கும் / அன்பர்களுக்கும்...</feature>
+				<page>044-046</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உலகளாவிய சமய நல்லிணக்கக் கருத்தரங்கம்</title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>047-047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>விவேகானந்தரைக் கொண்டாடும் மேற்கு வங்காளம்</title>
+				<feature>இளைஞர்களுக்கு / மாணவ மாணவிகளுக்கு…</feature>
+				<page>048-048</page>
+				<allauthors/>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="93">
+		<issue inum="01" month="01" year="2013">
+			<entry>
+				<title>எப்படிப்பட்டவள் சாரதை?  </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>003-003</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விகாஸ் ஏன் சாப்பிடவில்லை? </title>
+				<feature>உள்ளுணர்வுக் கதை</feature>
+				<page>004-004</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி :மூழ்கும் கப்பலின் தலைவன்  </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>005-006</page>
+				<allauthors>
+					<author> எஸ்.ரமேஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கன்றுக்கு வேதம் அளித்த வரம் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>007-007</page>
+				<allauthors>
+					<author> க.ஒப்பிலிஅப்பன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை : ரகுவம்சம்  </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>008-012</page>
+				<allauthors>
+					<author> கொலு பொம்மைப் படக்காட்சிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவசாயிகளின் தற்கொலைகளைத் தடுக்கும் மாணவர்கள் </title>
+				<feature>குறும்படம் தரும் அரும்பாடம்</feature>
+				<page>013-014</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>வெற்றிக்கு வித்திடும் ஆசிரியர்களே! </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>015-015</page>
+				<allauthors>
+					<author> கென்னடி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் பகுதி : : சிந்தித்தால் செலவு மிச்சம்  </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>016-017</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் முதல் சீடர் சுவாமி சதானந்தர்</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>018-020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சிகாகோ பல்கலைக் கழகத்தில் விவேகானந்தர் கல்விப்பீடம்</title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>021-022</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சிறப்புப் பகுதி : விவேகானந்தப் பயிற்சி (Practise Vivekananda) - உடல் வலிமை</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>துரியானந்தரின் சிந்தனைத் துளிகள் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>027-027</page>
+				<allauthors>
+					<author> குறுமுனி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தீர்ப்புக்காகக் காத்திருக்கும் நீதிபதி </title>
+				<feature>சிறுகதை: கரு உண்மை;உரு கற்பனை</feature>
+				<page>028-032</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அதிகம் சம்பாதித்தவர்களின் கதி</title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>033-034</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம்:  ராஜாவை ஏமாற்ற முடியாது! </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>035-035</page>
+				<allauthors>
+					<author> ஒரு பர்மியக் கதை</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறைப்பட்டாலும் சிந்தனை வசப்பட்டவர்கள் </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>036-038</page>
+				<allauthors>
+					<author> ராஜிரகுநாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமிஜி பற்றிய புகைப்படப் புதிர் </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>039-039</page>
+				<allauthors>
+					<author> நா.சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஈசாவாஸ்ய உபநிடதம் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>040-042</page>
+				<allauthors>
+					<author> மகாகவி பாரதியாரின் மொழிபெயர்ப்பு</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆசிரியர்களிடம் சில கேள்விகள்  </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சூரியனின் மகிமை </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>044-045</page>
+				<allauthors>
+					<author> பிரும்மஸ்ரீ சாமவேதம் சண்முக சர்மா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தரின் 150வது ஆண்டு விழாக் கூட்டம்</title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>046-047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>இந்தியாவின் முதுகெலும்பு எது? </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>048-048</page>
+				<allauthors>
+					<author> சுவாமி விவேகானந்தர்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="02" year="2013">
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ண சீடர்களின் தவம் ? </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> மகேந்திரநாத் குப்தர் (ம)</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமிஜி கண்ட பாரதத்தைப் படைப்போம்! </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>005-006</page>
+				<allauthors>
+					<author> ஆளுநர் கே.ரோசையா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு சாதாரண கிளி சொல்வது நமக்குப் புரிகிறதா?  : சகஜீவன் </title>
+				<feature>உள்ளுணர்வுக் கதை</feature>
+				<page>007-007</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தேசிய இளைஞர் தினப் போட்டி 2013 </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>008-009</page>
+				<allauthors>
+					<author> பிரகதா, உஷாகணேஷன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆசிரியர்கள் முன்னேறுவதற்கான கருத்துகள்: அன்புள்ள ஆசிரியர்களே!</title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>010-013</page>
+				<allauthors>
+					<author>சொல்வேந்தர் சுகிசிவம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சாதித்தவர் சொல்கிறார் </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>014-016</page>
+				<allauthors>
+					<author> டாக்டர் மயில்சாமி அண்ணாதுரை</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நேதாஜி பற்றிய புதிய தகவல்கள்:  நேதாஜியை உருவாக்கியவர்! </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>017-018</page>
+				<allauthors>
+					<author> சாருகேசி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆணும் பெண்ணும் போராடினால் அனைவரும் முன்னேறலாம்! </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>019-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறப்புப் பகுதி : விவேகானந்தப் பயிற்சி - தலைமைப் பண்புகள் (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தர் பற்றி ஒரு கிறிஸ்தவர் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>027-028</page>
+				<allauthors>
+					<author> எர்னஸ்ட் சி. ப்ரௌன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வைரமாவதற்கு விரும்பு! </title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>029-032</page>
+				<allauthors>
+					<author> பேராசிரியர் க. இராமச்சந்திரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நம் பாரம்பரிய தாய்மார்களுள் ஒருவரின் வரலாறு: கமலவதி </title>
+				<feature>அன்னையர் உலகம்</feature>
+				<page>033-033</page>
+				<allauthors>
+					<author> முனைவர் செல்வக்கணபதி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிந்தனையைத் தூண்டும் சுபாஷிதங்கள் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>034-034</page>
+				<allauthors>
+					<author> தமிழாக்கம்: கே.ஜெயராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>லஞ்சம் வாங்குபவர்களுக்கு ஒரு சவுக்கடி: தர்மம் </title>
+				<feature>குறும்படம் தரும் அரும்பாடம்</feature>
+				<page>035-038</page>
+				<allauthors>
+					<author> சுவாமி தக்ஷஜானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர்: திருநாவுக்கரசரின் சூலை நோய் நீங்கிய தலம்</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>039-039</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ராமகிருஷ்ண மடம் மிஷன் பணிகள் 2012 </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>040-042</page>
+				<allauthors>
+					<author> சுவாமி சுஹிதானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீசாரதாதேவி பற்றிய விநாடி வினா </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> சுபத்ரா கலியபெருமாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : புத்திசாலி யார்?</title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>044-044</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>படக்கதை : உத்தம குரு விவேகானந்தர் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>045-047</page>
+				<allauthors>
+					<author> படம் : சிவபிரசாத்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் 150வது பிறந்த ஆண்டு சிறப்பு நிகழ்ச்சி :விவேக் ஜோதி தொடர் ஓட்டம்</title>
+				<feature>இளைஞர்களுக்கு</feature>
+				<page>048-048</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="03" month="03" year="2013">
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ணரிடம் வேண்டுவோம்! </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>003-005</page>
+				<allauthors>
+					<author> சுவாமி பிரேமேஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் 150வது ஜெயந்தி விழா :நீ நீயாக இரு! </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>006-009</page>
+				<allauthors>
+					<author> டாக்டர் ஏ.பி.ஜெ.அப்துல் கலாம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை : அகங்காரம் துறந்த அரசன் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>010-012</page>
+				<allauthors>
+					<author> ஓவியம் : சதாசிவம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பெரியோர் வாழ்வில் சுவையான சம்பவம் : இரும்பு மனிதர் சர்தார் வல்லபாய் படேல்</title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>013-014</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஒரு சிறுவனின் அருமையான கதை: ஆசை </title>
+				<feature>குறும்படம் தரும் அரும்பாடம் </feature>
+				<page>015-016</page>
+				<allauthors>
+					<author> மங்கையர்க்கரசி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>காளஹஸ்தீஸ்வரா! </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>017-018</page>
+				<allauthors>
+					<author> பிரம்மஸ்ரீ சாமவேதம் சண்முக சர்மா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நெஞ்சை உருக்கும் ஒரு கதை : என் பிள்ளைகளுக்குப் பரீட்சை </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>019-019</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவனே, பரீட்சை நேரத்தில் நீ பூனையா? புலியா? சிங்கமா? </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறப்புப் பகுதி : விவேகானந்தப் பயிற்சி - மனதை ஒருமைப்படுத்துவது எப்படி? (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஜனவரி மாத விவேகானந்தப் பயிற்சியில் பரிசு பெற்றவர்கள்</title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>027-027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஓர் உண்மைச் சம்பவம் : அந்தத் தாயின் வலது கரம் </title>
+				<feature>சிறுகதை </feature>
+				<page>028-029</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுந்தரமூர்த்தி நாயனார் அவதரித்த தலம் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>030-030</page>
+				<allauthors>
+					<author> தஞ்சை ஜெயபாலன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு சிறுவனின்  சாதனை : ரயானின் கிணறு </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>031-034</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கல்லூரி மாணவர்களின் சாதனை : மின்சார இளைஞர்கள் </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>035-035</page>
+				<allauthors>
+					<author> டி.எம்.சுந்தரராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆசிரியர்கள் முன்னேறுவதற்கான கருத்துகள்: அன்புள்ள ஆசிரியர்களே!</title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>036-038</page>
+				<allauthors>
+					<author> சொல்வேந்தர் சுகிசிவம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிவ பரிவாரம் கூறும் ஒரு தலைவனின் லட்சணம் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>039-040</page>
+				<allauthors>
+					<author> பிரம்மஸ்ரீ சாமவேதம் சண்முக சர்மா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சாஸ்திரங்கள் கூறும் சிவராத்திரி மகிமை </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>041-042</page>
+				<allauthors>
+					<author> தஞ்சாவூர் ஆர்.முத்துகிருஷ்ண சாஸ்திரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் 150வது ஜெயந்தி விழா : தபால் தலையில் ஒரு தலைமகன் </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> ராஜமாதா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ண அருள் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>044-045</page>
+				<allauthors>
+					<author> சுவாமி கௌதமானந்தர்ஆசிரியர் உலகம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் 150வது ஜெயந்தி விழா: ஜனவரி 12 </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>046-047</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் 150வது ஜெயந்தி விழா : விவேகானந்தர் பெயரில் ஒரு கின்னஸ் சாதனை</title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>048-048</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="04" month="04" year="2013">
+			<entry>
+				<title>குலசேகர ஆழ்வாரும் குருதேவரும் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>003-003</page>
+				<allauthors>
+					<author> ச. இராசகோபாலன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தர் எனக்குப் பெரிய தூண்டுகோல்! </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>004-006</page>
+				<allauthors>
+					<author> மாண்புமிகு முதலமைச்சர் செல்வி ஜெ ஜெயலலிதா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தரின் 150வது பிறந்த ஆண்டு விழாத் துவக்க நிகழ்ச்சி</title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>007-008</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி: தாய் மண்ணே வணக்கம்! </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>009-009</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை: பண்டரிபுரம் தோன்றிய வரலாறு </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>010-013</page>
+				<allauthors>
+					<author> ஓவியம் : சங்கர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ராமாயணத்தைப் போற்றும் தாய்லாந்து </title>
+				<feature>குறும்படம் தரும் அரும்பாடம் </feature>
+				<page>014-016</page>
+				<allauthors>
+					<author> பத்மன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இதெல்லாமா என்னிடம் கேட்பது? </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>017-017</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் 150வது ஜெயந்தி விழா : விவேகானந்த நவராத்திரி</title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>018-020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமச்சந்திர ஆரதி </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>021-022</page>
+				<allauthors>
+					<author> துளசிதாசர் இயற்றியது</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர்களால் விரும்பப்படுபவர்களாக மலர ஆசிரியர்களுக்கான விவேகானந்தப் பயிற்சி (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>பிப்ரவரி மாத விவேகானந்தப் பயிற்சியில் பரிசு பெற்றவர்கள்</title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>027-028</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : விடுங்கப்பா, எனக்குத் தெரிந்துவிட்டது! </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>029-029</page>
+				<allauthors>
+					<author> பைரவ் சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் 150வது ஜெயந்தி விழா : வெளிநாடுகளில் விவேகானந்தருக்கு விழாக்கள்</title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>030-032</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>தமிழகம் தழைக்க உலா வரும் விவேகானந்த ரதம்</title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>033-034</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>காளிதேவி கனவில் வந்தாள்! </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>035-035</page>
+				<allauthors>
+					<author> பிரம்மசாரி தரணி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நாட்டிலுள்ள ஒரு பெரும் பிரச்னையைப் பற்றிய கதை: சுதேசிச் சந்தை </title>
+				<feature>சிறுகதை </feature>
+				<page>036-039</page>
+				<allauthors>
+					<author> பாமதிமைந்தன் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இந்திய மேதாவிகள் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>040-043</page>
+				<allauthors>
+					<author> ஸ்ரீசிரத்தாலு ரானடே, அரவிந்த ஆசிரமம்.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி: நாட்டிற்குத் தேவை நம்பிக்கை </title>
+				<feature>இளைஞர்களுக்கு </feature>
+				<page>044-044</page>
+				<allauthors>
+					<author> மாண்புமிகு குஜராத் முதல்வர் திரு. நரேந்திர மோடி</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="05" year="2013">
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ண பக்தர்களின் சில தகுதிகள் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>003-005</page>
+				<allauthors>
+					<author> முனைவர் இரா. செல்வக்கணபதி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை: பொங்கி வந்தது கங்கை! </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>006-009</page>
+				<allauthors>
+					<author> பவஹாரி பாபாவின் வாழ்வில் ஓர் அதிசயம் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆட்டுவிப்பவளே அசந்துவிட்டாள்! </title>
+				<feature>கரு உண்மை; உரு கற்பனை </feature>
+				<page>010-014</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆச்சார்ய ஸ்ரீராமானுஜர் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>015-015</page>
+				<allauthors>
+					<author> சுவாமி  ராமகிருஷ்ணானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீநரசிம்மரின் மகிமை </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>016-017</page>
+				<allauthors>
+					<author> நஜன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மகா கும்பமேளா ஒரு நேரடி ரிப்போர்ட் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>018-020</page>
+				<allauthors>
+					<author> பத்திரிகையாளர் எஸ்.சந்திரமௌலி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கடைசியில் கத்தல்தானா? </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>021-022</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அம்மாக்களுக்கான விவேகானந்தப் பயிற்சி (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>குட்டிக் கதைகள்: புத்தர் தீர்வு கூறிய 84வது பிரச்னை </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>027-027</page>
+				<allauthors>
+					<author> கே.நிருபமா </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இந்திய மேதாவிகள் 2</title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>028-032</page>
+				<allauthors>
+					<author> ஸ்ரீசிரத்தாலு ரானடே, அரவிந்த ஆசிரமம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆதிசங்கரர் அருளிய ஸ்ரீலக்ஷ்மீ ந்ருஸிம்ஹ பஞ்சரத்னம்</title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>033-033</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>மார்ச் மாத விவேகானந்தப் பயிற்சியில் பரிசு பெற்றவர்கள்</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>034-036</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>தலைமுறை வாழ்த்திட வாழ்! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>037-038</page>
+				<allauthors>
+					<author> சிந்தனைக் கவிஞர் கவிதாசன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சீதாநவமி </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>039-039</page>
+				<allauthors>
+					<author> மும்பை ராமகிருஷ்ணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒற்றைக் கடலில் ஓராயிரம் நதிகள் 5வது ஹிந்து ஆன்மிகக் கண்காட்சி </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>040-042</page>
+				<allauthors>
+					<author> பத்மன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> டி.எம்.சுந்தரராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நாட்டிற்குத் தேவை நம்பிக்கை </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>044-044</page>
+				<allauthors>
+					<author> குஜராத் முதல்வர் திரு. நரேந்திர மோடி</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="06" year="2013">
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ணரின் எளிய மார்க்கம் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>003-003</page>
+				<allauthors>
+					<author> சுவாமி பரானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு விஞ்ஞானி எப்படி உருவாகிறான்? </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>004-007</page>
+				<allauthors>
+					<author> டாக்டர் மயில்சாமி அண்ணாதுரை</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுகதை: எல்லாம் ஏற்ற பரமஹம்சம் </title>
+				<feature>கரு உண்மை; உரு கற்பனை </feature>
+				<page>008-009</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>துபாயில் இந்திய ஆன்மிகத்தின் செல்வாக்கு</title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>010-012</page>
+				<allauthors>
+					<author> எம்.பைரவ சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர்: மோகினியாய் வந்த பெருமாள் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>013-013</page>
+				<allauthors>
+					<author> தஞ்சை ஜெயபாலன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஜப்பானிடமிருந்து கற்க வேண்டியது </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>014-015</page>
+				<allauthors>
+					<author> உஷா கணேசன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மத நல்லிணக்கம்: எது மெய்யான ஞானஸ்நானம்? </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>016-017</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>குறும்படம் தரும் அரும்பாடம் : தமிழ் மெல்ல இனி...? </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>018-019</page>
+				<allauthors>
+					<author> மங்கையர்க்கரசி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி: இப்படி மாணவர்கள் இருந்தால் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தர் வலியுறுத்தும் சிரத்தை (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஏப்ரல் மாத விவேகானந்தப் பயிற்சியில் பரிசு பெற்றவர்கள்</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>027-027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>இந்திய மேதாவிகள் 3 </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>028-032</page>
+				<allauthors>
+					<author> ஸ்ரீசிரத்தாலு ரானடே, அரவிந்த ஆசிரமம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>குருதேவர் அவரைக் காப்பார்! </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>033-034</page>
+				<allauthors>
+					<author> சுவாமி தபஸ்யானந்தரின் ஆறுதல் கடிதம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தினமும் ஓத சில மந்திரங்கள் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>035-035</page>
+				<allauthors>
+					<author> தொகுப்பு : க.ஜெயராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இறையூஞ்சல்கள் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>036-038</page>
+				<allauthors>
+					<author> இரா.கு. பாலசுப்பிரமணியன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அவன் ஏன் பேசவில்லை? </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>039-039</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உதாரணமான கிராமத்தில் உன்னதமானவருக்கு ஒரு மண்டபம் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>040-042</page>
+				<allauthors>
+					<author> எஸ்.ரமேஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தமிழகம் தழைக்க உலா வரும் விவேகானந்த ரதம் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> பேராசிரியர் ஒய்.ஹரிஹரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : மூத்தவனுக்கு என்ன வரும்? </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>044-044</page>
+				<allauthors>
+					<author> திருமுருக கிருபானந்த வாரியார்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை : தாய்மார்களுக்கு ஸ்ரீராமரின் உபதேசம் </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>045-045</page>
+				<allauthors>
+					<author> ஓவியம் : தாகோஜி சிவபிரசாத்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="07" year="2013">
+			<entry>
+				<title>உபவாசம் அவசியமில்லை, எப்போது? </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>003-004</page>
+				<allauthors>
+					<author>சி.வரதராஜன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பெரியோர் வாழ்விலிருந்து: ஊழல் செய்பவர்களே... </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>005-005</page>
+				<allauthors>
+					<author>  டி.எம்.எஸ்.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறப்புக் கட்டுரை : இறைநாம மகிமை </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>006-010</page>
+				<allauthors>
+					<author> சுவாமி பஜனானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் புதிய கடிதம்</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>011-011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சிறுகதை: தட்டிவிடு சாம்பலை! </title>
+				<feature>கரு உண்மை; உரு கற்பனை </feature>
+				<page>012-014</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தருக்கு ரஷ்யாவில் விழா</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>015-015</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி: சிந்தித்திடு; சாதித்திடு! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>016-017</page>
+				<allauthors>
+					<author> எஸ்.ஸெல்வி.மூர்த்தி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆச்சார்யர்களின் மாணவப் பருவம் </title>
+				<feature>ஆசிரியர் உலகம் </feature>
+				<page>018-019</page>
+				<allauthors>
+					<author> நரசிம்மன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி: இப்படியும் பள்ளி செல்லும் மாணவர்கள்! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நீராதாரங்களைக் காக்க நீங்களே ஆதாரம்! (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>உங்களை ஒரு கணம் சிந்திக்க வைக்கும் சிறுகதை : துளி </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>027-027</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தர் பெயரில் ஒரு விவசாய எழுச்சி</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>028-029</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>இந்திய மேதாவிகள் பகுதி 4 </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>030-033</page>
+				<allauthors>
+					<author> ஸ்ரீசிரத்தாலு ரானடே, அரவிந்த ஆசிரமம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பூஜைக்கும் சடங்குக்கும் நீரே ஆதாரம்! </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>034-038</page>
+				<allauthors>
+					<author> எம்.பைரவ சுப்பிரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>எப்போது பகவானைக் காணலாம்? </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>039-039</page>
+				<allauthors>
+					<author> மாலதி சந்திரசேகரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வீர விவேகானந்தர் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>040-042</page>
+				<allauthors>
+					<author> மாலன், ஆசிரியர், புதிய தலைமுறை</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : நீயே மொழிபெயர்த்துக் கொள்! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு </feature>
+				<page>043-044</page>
+				<allauthors>
+					<author> தேனி எஸ்.மாரியப்பன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை : பக்தர் பரமேஷ்டி </title>
+				<feature>பக்தர்களுக்கு  </feature>
+				<page>045-045</page>
+				<allauthors>
+					<author> ஓவியம் : சங்கர்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="08" year="2013">
+			<entry>
+				<title>படகோட்டியாக பரமஹம்சர் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>003-006</page>
+				<allauthors>
+					<author> பிர. கிரிதரஜெகதீஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி : இனி நீ எது ஏறினாலும் எவரெஸ்ட்! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>007-007</page>
+				<allauthors>
+					<author> ராஜமாதா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இயற்கைச் சீற்றத்திலும் இறை கருணை! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>008-011</page>
+				<allauthors>
+					<author> ராமானுஜ வரதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தமிழகத்திற்கு எழுச்சி தரும் ரத யாத்திரை </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>012-014</page>
+				<allauthors>
+					<author> மயில்சாமி அண்ணாதுரை </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உங்களைச் சிந்திக்க வைக்கும் ஒரு நெகிழ்வு : கண்ணன் கண்ணில் கண்ணீர் ஏன்?</title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>015-015</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>கல்வி மூலம் மனிதவளம் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>016-017</page>
+				<allauthors>
+					<author> சுவாமி அபிராமானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கோபியே, கோபியே! </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>018-019</page>
+				<allauthors>
+					<author> ஸ்ரீராமசந்த்ர டோங்க்ரே மகராஜ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி: நம்பிக்கைப் பள்ளிகள் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>67வது சுதந்திர ஆண்டில்...: சுதந்திரம் பெற்றும் நாம் சுதந்திரமாக இருக்கிறோமா? (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>விவேகானந்தப் பயிற்சியில் பரிசு பெற்றவர்கள்</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>027-027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ண மடத்தின் நிவாரணப் பணிகள் 2012-13</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>028-029</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சிறுகதை: பேசும் புல்லாங்குழல் </title>
+				<feature>கரு உண்மை; உரு கற்பனை</feature>
+				<page>030-034</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆதிசங்கரர் அருளிய ஸ்ரீநந்தநந்தன அஷ்டகம்</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>035-035</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>நீங்கள் இனி யாத்திரை சென்றால்...! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>036-038</page>
+				<allauthors>
+					<author> சமன்வயா ராம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இலங்கையில் சுவாமி விவேகானந்தர் தபால் தலை வெளியீடு</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>039-039</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தர் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>039-040</page>
+				<allauthors>
+					<author> தமிழ் தொலைக்காட்சித் தொடர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சீற்றம் வந்தாலும் சிதறாத பக்தி! </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>041-041</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கல்வித் திட்டங்களில் விவேகானந்தரின் சிந்தனைகளைக் கொண்டு வந்த தமிழக அரசுக்கு நன்றி!</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>042-044</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>படக்கதை : ஸ்ரீகுருவாயூரப்பன் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>045-045</page>
+				<allauthors>
+					<author> ஓவியம் : கோவி</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="09" year="2013">
+			<entry>
+				<title>என்றும் இருக்கும் ஸ்ரீராமகிருஷ்ணர்! </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> சுவாமி சேதனானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உங்களை நெகிழ வைக்கும் ஒரு நிகழ்வு : ஒரு ரயில் பெட்டியில்....</title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>005-005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஆனைமுகத்தோனின் அருள் கதைகள் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author> மேஜர் க.சீனிவாசன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்வைதானந்தருக்கு அபிஷேகம்</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>009-009</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>மலாலாவின் பேச்சில் விவேகானந்தரின் தாக்கம்! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>010-011</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஓர் ஆசிரியையின் ஆசிரிய மாணவி </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>012-014</page>
+				<allauthors>
+					<author> கே.சித்ரா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இளைஞர்களின் கேள்விகளுக்கு நீதியரசர் சந்துரு பதிலளிக்கிறார்!</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>015-016</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>நோய் தீர்க்கும் ஸ்ரீதன்வந்திரி பகவான் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>017-017</page>
+				<allauthors>
+					<author> நா. இரமணிசேகர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தமிழ்நாடு இளைஞர் முகாம்  </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>018-019</page>
+				<allauthors>
+					<author> எம்.சரவணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி: இளம் விஞ்ஞானியும் இளம் மெய்ஞ்ஞானியும் </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பிறந்துவிட்டோம் இந்தியராக! வளர்கிறோமா, வாழ்கிறோமா இந்தியராக? (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>விவேகானந்தப் பயிற்சியில் பரிசு பெற்றவர்கள்</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>027-027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>உலகின் குரு இந்தியா </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>028-032</page>
+				<allauthors>
+					<author> சிரத்தாலு ரானடே</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மறைகளும் ஞானிகளும் போற்றிய விநாயகர்! </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>033-035</page>
+				<allauthors>
+					<author> எம்.பைரவசுப்பிரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுகதை: அவர் அதையும் நமக்காகச் செய்கிறார்! </title>
+				<feature>கரு உண்மை; உரு கற்பனை</feature>
+				<page>036-039</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி : வள்ளுவர் வழியில் மேல்நாட்டு மேலாண்மை</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>040-043</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>தமிழ் பேசினால் தண்டனை! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>044-044</page>
+				<allauthors>
+					<author> சுதந்திரப் போராட்ட வீரர் சின்ன அண்ணாமலை</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை : தெய்வ அருளால் தோன்றிய திருப்பெருந்துறை </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>045-045</page>
+				<allauthors>
+					<author> ஓவியம் : சங்கர்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="10" year="2013">
+			<entry>
+				<title>அமுதமொழிகளில் நவமணிகள் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>003-005</page>
+				<allauthors>
+					<author> சுவாமி புத்திதானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இளைஞன் எதை வாசிக்க வேண்டும்? </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>006-009</page>
+				<allauthors>
+					<author> இறையன்பு ஐ.ஏ.எஸ்.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இந்தியாவை முன்னேற்ற இப்படிப்பட்டவரே தேவை! </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>010-013</page>
+				<allauthors>
+					<author> ஈரோடு கதிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நமது காலத்தில் ஒரு ரிஷிமாதா </title>
+				<feature>அன்னையர் உலகம்</feature>
+				<page>014-017</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>துர்க்காதேவிக்கு ஏன் அந்தப் பெயர் வந்தது?  </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>018-019</page>
+				<allauthors>
+					<author> டி.கே.முத்துஸ்வாமி சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி: சரஸ்வதியின் அருள் பெற்ற மாணவர்கள் ஆகுங்கள்! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பிறந்துவிட்டோம் இந்தியராக; வளர்கிறோமா, வாழ்கிறோமா இந்தியராக? (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>023-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>விவேகானந்தப் பயிற்சியில் பரிசு பெற்றவர்கள்</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>027-027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>உங்கள் வீட்டுப் பக்கத்திலும் இப்படி ஒருவர் இருக்கலாம்! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>028-029</page>
+				<allauthors>
+					<author> ரகுராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விழித்தெழு, பாரதமே! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>030-032</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பகவானின் பிறந்த நாள் செய்தியைத் தயாரித்தது யார்? </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>033-034</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர்: சுவாமிஜி எதிர்பார்த்த ஒரு பெண் சிங்கம்</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>035-036</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஒரு கொசுவா நமக்குப் பாடம் போதிக்கிறது?: கொசு தர்மம் </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>037-037</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீபாலாம்பிகாஷ்டகம் தமிழாக்கம் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>038-039</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>செவிலியர்களுக்கு ஏற்ற ஸ்ரீசாரதாதேவி</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>040-044</page>
+				<allauthors>
+					<author> யதீஸ்வரி அனந்தப்ரேமப் பிரியா அம்பா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை : சத்தியவிரதன் உதத்யன் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>045-045</page>
+				<allauthors>
+					<author> ஓவியம் : ஆர்.வெங்கட்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="11" year="2013">
+			<entry>
+				<title>பகவான் ஸ்ரீராமகிருஷ்ணர் புற்றுநோயை ஏற்றுக் கொண்டது ஏன்? </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> சுவாமி சேதனானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சக்தி வாய்ந்த உரை  </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>005-005</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சைவமும் வைணவமும் போற்றும் தீபாவளி </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>006-009</page>
+				<allauthors>
+					<author> டி.கே.ராஜாமணி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சமயம் என்ன சொல்கிறது? </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>010-011</page>
+				<allauthors>
+					<author> சுவாமி அபிராமானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்த சிவம் பற்றிய சிறுகதை : சிவ சிவ சுவாமிஜி </title>
+				<feature>கரு உண்மை; உரு கற்பனை</feature>
+				<page>012-016</page>
+				<allauthors>
+					<author> பாமதி மைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பகவந் நாமத்திற்கு இழைக்கப்படும் பத்து கொடுமைகள்</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>017-017</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>பிள்ளைகளைப் புரிந்துகொள்வோம்: பிள்ளைகள் பெற்றோரிடம் எதிர்பார்ப்பது என்ன?</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>018-018</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஒரு குடும்ப வழிகாட்டி: பெற்றோர் பிள்ளைகளிடம் எதிர்பார்ப்பது என்ன?</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>019-019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>மாணவர் சக்தி: அவளுக்குக் கையா இல்லை! </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நூல் மதிப்புரை : விவேக ஸௌரபம் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>023-023</page>
+				<allauthors>
+					<author> டாக்டர் கே.ஸ்ரீனிவாசன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சமயம் பாரதத்தின் முதுகெலும்பு! (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>024-027</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>மகளைப் பறிகொடுத்த ஒரு தாய்க்கு ஆறுதல் </title>
+				<feature>அன்னையர் உலகம்</feature>
+				<page>028-029</page>
+				<allauthors>
+					<author> வெ.சாமிநாதசர்மா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கங்காஷ்டகம் </title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>030-031</page>
+				<allauthors>
+					<author> தமிழாக்கம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கங்கா மட்டுமல்ல, காவிரி ஸ்நானமும் வேண்டும்!</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>032-033</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>இளைஞன் எதை வாசிக்க வேண்டும்? </title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>034-038</page>
+				<allauthors>
+					<author> இறையன்பு ஐ.ஏ.எஸ்.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>துறவறத்திற்கு முன்பேயே தியாகம்!</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>039-042</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம்: கடவுளை நம்புபவன் காட்டுமிராண்டி....?</title>
+				<feature>இளைஞர்களுக்கு/ மாணவர்களுக்கு</feature>
+				<page>043-044</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>படக்கதை : ஜீவஜோதி சித்தர் சங்கு சுவாமிகள் ஓவியம் : சங்கர்</title>
+				<feature>பக்தர்களுக்கு</feature>
+				<page>045-045</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="12" month="12" year="2013">
+			<entry>
+				<title>ஞானேஸ்வரும் ராமகிருஷ்ணரும் </title>
+				<feature>பக்தர்களுக்கு.../அன்பர்களுக்கு...</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> சுபத்ரா கலியபெருமாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு நெகிழ்வுச் சம்பவம் : பர்ஸில் ஒரு படம் </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>005-005</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அன்னை நமக்காகப் பிரார்த்தனை செய்கிறார்! </title>
+				<feature>பக்தர்களுக்கு.../அன்பர்களுக்கு...</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு வீரச் சம்பவம் : கார்கிலில் ஒரு மாவீரன்  </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>009-011</page>
+				<allauthors>
+					<author> ரமேஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மருத்துவர்களுக்கு விவேகானந்தரின் வழிகாட்டுதல்</title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>012-015</page>
+				<allauthors>
+					<author> சுவாமி பிரம்மேஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உன்னை வளர்த்துக் கொள், இளைஞனே! </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>016-019</page>
+				<allauthors>
+					<author>என்.கிருஷ்ணமூர்த்தி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பிள்ளைகள் பெற்றோர்களிடம் எதிர்பார்ப்பது!</title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>020-020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>பெற்றோர் பிள்ளைகளிடம் எதிர்பார்ப்பது!</title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>021-022</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர் : கடலுக்குள் வீற்றிருக்கும் ஸ்தம்பேஸ்வரர்</title>
+				<feature>பக்தர்களுக்கு.../அன்பர்களுக்கு...</feature>
+				<page>023-023</page>
+				<allauthors>
+					<author>விஜயா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சமயம் பாரதத்தின் முதுகெலும்பு! (Practise Vivekananda)</title>
+				<feature>விவேகானந்தப் பயிற்சி</feature>
+				<page>024-026</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>பகவானிடம் முறையிட்ட ஒரு மலர்  </title>
+				<feature>உள்ளுணர்வுக் கதை </feature>
+				<page>027-027</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறப்புக் கட்டுரை : திருவடி மகிமை</title>
+				<feature>பக்தர்களுக்கு.../அன்பர்களுக்கு...</feature>
+				<page>028-031</page>
+				<allauthors>
+					<author> ஸ்வர்ண ஜெயந்தி அசோகன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அன்று சிவன்; இன்று சக்தி </title>
+				<feature>    கரு உண்மை; உரு கற்பனை</feature>
+				<page>032-036</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீ அப்பய்ய தீக்ஷிதரின் ஸ்ரீமார்க்கபந்து ஸ்தோத்திரம்</title>
+				<feature>பக்தர்களுக்கு.../அன்பர்களுக்கு...</feature>
+				<page>037-038</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>டி.வி. நமக்குத் தொல்லை தராமலிருக்க...</title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>039-040</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>படக்கதை : சுவாமி ராமகிருஷ்ணானந்தரின் வாழ்விலிருந்து சில சுவையான சம்பவங்கள் </title>
+				<feature>பக்தர்களுக்கு.../அன்பர்களுக்கு...</feature>
+				<page>041-047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம்: அவர் ஏன் அலறினார்? </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>048-048</page>
+				<allauthors>
+					<author> டி.எம்.எஸ்.</author>
+				</allauthors>
+			</entry>
+		</issue>		
+	</volume>		
+	<volume vnum="94">	
+		<issue inum="01" month="01" year="2014">
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ண மடத்து சங்க குருவின் ஆசியுரை</title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>003-005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சுவாமிஜி நமது தேசியத்தின் தன்மானம் </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author>  மேதகு குடியரசுத் தலைவர் பிரணாப் முகர்ஜி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நமக்கெல்லாம் அவர் வழிகாட்டி </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>009-009</page>
+				<allauthors>
+					<author> மாண்புமிகு தமிழ்நாடு முதல்வர் செல்வி. ஜெ ஜெயலலிதா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஓர் ஒப்பற்ற மகான் </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>010-014</page>
+				<allauthors>
+					<author> சுவாமி கௌதமானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இந்தியாவை உருவாக்கியவர் </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>015-015</page>
+				<allauthors>
+					<author> மாண்புமிகு மேற்கு வங்க முதல்வர் மமதா பானர்ஜி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அன்பும் ஆற்றலும் பரவட்டும்! </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>016-018</page>
+				<allauthors>
+					<author>  ஸ்ரீ மாதா அமிர்தானந்தமயி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வேதரிஷி விவேகானந்தர் </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>019-020</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஆத்மாவாகிய ஜீவன் ஈஸ்வரனே! </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>021-021</page>
+				<allauthors>
+					<author>  சுவாமி தயானந்த சரஸ்வதி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தரை வணங்குவது இந்தியாவை வணங்குவதற்குச் சமம்! </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>022-025</page>
+				<allauthors>
+					<author> மாண்புமிகு மத்திய அமைச்சர் ஜி.கே. வாசன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பிரார்த்தனை எப்படி இருக்க வேண்டும்? </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>026-027</page>
+				<allauthors>
+					<author>  சுவாமி விவேகானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்த ரத யாத்திரை அனுபவங்கள் </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>028-031</page>
+				<allauthors>
+					<author> எஸ். பாண்டுரங்கன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இலக்கை எட்டும்வரை இடைவிடாது இயங்கு! </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>032-034</page>
+				<allauthors>
+					<author> சுவாமி அபிராமானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தர் கண்ட விவசாயம் </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>035-037</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பொருளாதாரத்தை மேம்படுத்துவதில் விவேகானந்தர் </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>038-042</page>
+				<allauthors>
+					<author> பேராசிரியர் ப.கனகசபாபதி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஓர் உண்மை சம்பவம்: சுவாமிஜி வந்தார்; சாதி பேதம் மறைந்தது! </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>043-043</page>
+				<allauthors>
+					<author> கிருஷ்ண சைதன்யா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆசார்யர் விவேகானந்தர் </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>044-046</page>
+				<allauthors>
+					<author> சுவாமி புத்திதானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இறையாணை பெற்றவர் </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>047-050</page>
+				<allauthors>
+					<author> சுவாமி அத்புதானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒருமுறை கை குலுக்கியிருந்தால் பத்து வருடம்...? </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>051-051</page>
+				<allauthors>
+					<author> ஆன் லூயிஸ் பார்டாச்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கால் இல்லாமலேயே இமயமலை ஏறியவர்: நான் நொறுங்கியபோது என்னை நிமிர்த்தியவர் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>052-054</page>
+				<allauthors>
+					<author> அருணிமா சின்ஹா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உள்ளுணர்வுக் கதைகள்: சக்தி ஊட்டுபவரா? சக்தி உறிஞ்சுபவரா? </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>055-055</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தர் ஏன் இள வயதிலேயே மகாசமாதி அடைந்தார்? </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>056-056</page>
+				<allauthors>
+					<author> ஒரு புது விளக்கம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீசாரதா தேவியின் மீது சுவாமிஜியின் பக்தி</title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>057-058</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சுவாமிஜி வகுத்த பாதையில்... </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>059-059</page>
+				<allauthors>
+					<author> முரளிதரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இசைவல்லுநர் விவேகானந்தர் </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>060-063</page>
+				<allauthors>
+					<author> பெ.சு.மணி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தெய்விகமானவன்தான் மனிதன்! </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>064-064</page>
+				<allauthors>
+					<author>  சுவாமி ஓங்காரானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பெண்களின் பிரச்னைக்கு சுவாமிஜியின் தீர்வு </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>065-066</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சுவாமிஜிக்கு முன்பு  சுவாமிஜிக்குப் பின்பு </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>067-068</page>
+				<allauthors>
+					<author> பத்மஸ்ரீ எஸ்.கே.எம்.மயிலானந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பாரதி நமக்கு அப்பன்; விவேகானந்தர் நமது பாட்டன் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>069-069</page>
+				<allauthors>
+					<author> ஸ்டாலின் குணசேகரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தரின் மூன்றாவது கணிப்பு </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>070-072</page>
+				<allauthors>
+					<author> கவிஞர் வைரமுத்து</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமிஜியின் கல்வித் திட்டம் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>073-074</page>
+				<allauthors>
+					<author> டாக்டர் கே. சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சாத்தியப்படுத்த சத்தியம் செய்வோம்! </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>075-075</page>
+				<allauthors>
+					<author> நீதியரசி பிரபா ஸ்ரீதேவன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அரசியலுக்கு நேதாஜி; ஆன்மிகத்திற்கு சுவாமிஜி </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>076-078</page>
+				<allauthors>
+					<author> சுவாமி கமலாத்மானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நானறிந்த விவேகானந்தர் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>079-080</page>
+				<allauthors>
+					<author> நீதிநாயகம் சந்துரு</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>என்னை வழி நடத்துபவர் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>081-082</page>
+				<allauthors>
+					<author> டாக்டர் பி.கே. கிருஷ்ணராஜ் வாணவராயர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தேடல் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>083-084</page>
+				<allauthors>
+					<author> அருட்சகோதரி மார்கரெட் பாஸ்டின்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>என் இலக்கை நிர்ணயித்தவர் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>085-085</page>
+				<allauthors>
+					<author> அருண் கிருஷ்ணமூர்த்தி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நெகிழ வைக்கும் விவேகானந்தர் </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>086-089</page>
+				<allauthors>
+					<author> பக்தர்களின் எண்ணத் தொகுப்பு</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தருடன் ஒரு விஞ்ஞானி </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>090-091</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>எனக்கு ஏன் விவேகானந்தரைப் பிடிக்கும்? </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>092-094</page>
+				<allauthors>
+					<author> வாசகர்களின் கருத்துத் தொகுப்பு</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு சிறுமியின் பார்வையில்!</title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>095-097</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>இப்படியும் ஒரு மேல்நாட்டுச் சீடர் </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>098-101</page>
+				<allauthors>
+					<author> ராஜமாதா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வெற்றி ஆசிரியர்களுக்கு ஐந்து விவேக சூத்திரங்கள் </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>102-104</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆங்கிலேயனின் கையைக் கடித்த அளசிங்கர் </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>105-105</page>
+				<allauthors>
+					<author> பேரா. க.அழகராஜா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உலகத்தின் சிறந்த உரை எது? </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>106-106</page>
+				<allauthors>
+					<author> சாந்தீபன் தேவ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிகாகோ சர்வ சமய மகாசபை </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>107-110</page>
+				<allauthors>
+					<author> சுவாமி மஹாயோகானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>15 வருடங்களாகச் சேவை செய்பவர்கள்: சுவாமிஜியின் ஓர் இளைஞர் பட்டாளம் </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>111-111</page>
+				<allauthors>
+					<author> எம். சரவணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு இஸ்லாமிய அறிஞரின் பார்வையில் விவேகானந்தர் </title>
+				<feature>சுவாமிஜியின் ஆன்மிகப் பரிமாணம்</feature>
+				<page>112-116</page>
+				<allauthors>
+					<author> மௌலானா வஹிதூதீன் கான்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தேவை ஒரு சரியான சிந்தனை </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>117-118</page>
+				<allauthors>
+					<author> எஸ். வைத்ய சுப்ரமணியம், சாஸ்த்ரா பல்கலைக் கழகம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நம்பிக்கையை இழக்க அனுமதிக்க மாட்டார்! </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>119-120</page>
+				<allauthors>
+					<author> கலைமாமணி டாக்டர் அம்பிகா காமேஷ்வரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமிஜி தோன்றாமல் இருந்திருந்தால்... </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>121-121</page>
+				<allauthors>
+					<author> சுவாமி அபவர்கானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கரு உண்மை; உரு கற்பனை: நான்கு சம்பவங்கள்; நான்கு மாமனிதர்கள் </title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>122-123</page>
+				<allauthors>
+					<author> பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சக்தி பெற சுவாமிஜியை முழங்கிய 12 லட்சம் மாணவ மாணவிகள்</title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>124-130</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>பிரபலமல்ல, பிரம்ம பலமே வேண்டியது! </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>131-132</page>
+				<allauthors>
+					<author> சொல்வேந்தர் சுகி சிவம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வீரமும் விவேகமும் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>133-134</page>
+				<allauthors>
+					<author> இறையன்பு, ஐ.ஏ.எஸ்.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>என் வெற்றிக்குப் பின்னால்... </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>135-136</page>
+				<allauthors>
+					<author> பத்மஸ்ரீ விவேக்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு குடும்பத்தில் விவேகானந்தரின் தாக்கம் </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>137-137</page>
+				<allauthors>
+					<author> யு.ஆர்.சி. தேவராஜன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விவேகானந்தர் மீது ஒரு தியானம் </title>
+				<feature>சுவாமிஜியின் சமுதாயப் பரிமாணம்</feature>
+				<page>138-140</page>
+				<allauthors>
+					<author>  சுவிர்,  ஓவியம் : மணியம் செல்வன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அவரால் செதுக்கப்பட்டவன் சிற்பி ஆவான்!  </title>
+				<feature>சுவாமிஜியால் உத்வேகம் பெற்றவர்கள்</feature>
+				<page>141-141</page>
+				<allauthors>
+					<author> தமிழருவி மணியன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை : தபஸ்வினி மாதாஜி கங்காபாய்</title>
+				<feature>சுவாமிஜியின் பன்முகப் பரிமாணம்</feature>
+				<page>142-142</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="02" month="02" year="2014">
+			<entry>
+				<title>மதநல்லிணக்கம் நம் நாட்டில் நிலவிட...  </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> சுவாமி பிரபானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பூக்களைப் பார்த்துப் பறி!</title>
+				<feature>உள்ளுணர்வுக் கதை</feature>
+				<page>005-005</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சென்னை மடத்தில் ரத யாத்திரை </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author> நா.சுப்பிரமணியன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சரித்திரச் சம்பவம்: பொறுமையால் வெல்!  </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>009-009</page>
+				<allauthors>
+					<author> திருமேனி நாகராசன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆன்மிகம் மலர்ந்தால் அல்லல் தேயும்! </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>010-012</page>
+				<allauthors>
+					<author> பே.சா.கர்ணசேகரன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப்புதிர்: திப்புசுல்தானுக்கு அருளிய சிவன் தலம்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>013-013</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>குறிக்கோளில் குறி வை! </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>014-017</page>
+				<allauthors>
+					<author> ஒலிம்பிக் வீரர் அபினவ் பிந்த்ரா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வலங்கைமான் கோவிந்த செட்டியார் </title>
+				<feature>கரு உண்மை; உரு கற்பனை</feature>
+				<page>018-020</page>
+				<allauthors>
+					<author>  பாமதி மைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ராமகிருஷ்ண மிஷனின் இரண்டு பலங்கள்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>021-021</page>
+				<allauthors>
+					<author>சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உலகமே கொண்டாடுகிறது விவேகானந்தரை! </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>022-025</page>
+				<allauthors>
+					<author> எஸ்.ரமேஷ்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>எண்ணங்களின் சங்கமம்: விவேகானந்தரின் மனக்குறையைத் தீர்க்கும் ஒரு முயற்சி </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>026-027</page>
+				<allauthors>
+					<author> லோக்குமார்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிவராத்திரி</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>028-029</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>அடியார்க்கு இறை உணவு </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>030-032</page>
+				<allauthors>
+					<author> ஸ்வர்ண ஜெயந்தி அசோகன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆசிரியர்களுக்கான புதிய பார்வை </title>
+				<feature>ஆசிரியர்களுக்கு...</feature>
+				<page>033-034</page>
+				<allauthors>
+					<author> ஆர்.பி. சாரதி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மகத்தான மதுரா இஸ்லாமியர்கள் </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>035-036</page>
+				<allauthors>
+					<author>  எம்.பைரவசுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவையான சம்பவங்கள்: மனிதன் ஏன் கத்திப் பேசுகிறான்?</title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>037-038</page>
+				<allauthors>
+					<author> டி.எம்.சுந்தரராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஓர் உண்மைச் சம்பவம்: நன்றியுள்ள யானைகள்</title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>039-039</page>
+				<allauthors>
+					<author> கண்ணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பதஞ்சலி முனிவர் அருளிய சதாசிவாஷ்டகம் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>040-042</page>
+				<allauthors>
+					<author> தமிழுரையுடன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இளம் விஞ்ஞானி: ஒரு விஞ்ஞானியின் பார்வையில்...</title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>043-043</page>
+				<allauthors>
+					<author>முனைவர் சிவக்குமார்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title> படக்கதை: திருநந்திதேவர்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>044-047</page>
+				<allauthors>
+					<author> எம்.பைரவ சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : அதையும் நினைத்துப் பாருங்கள்! </title>
+				<feature>இளைஞர்களுக்கு / மாணவர்களுக்கு</feature>
+				<page>048-048</page>
+				<allauthors>
+					<author> டி.எம்.எஸ்.</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="03" year="2014">
+			<entry>
+				<title>ஆதிகதாம்ருத </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> ராஜ் விட்டல்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>டில்லியில் கடுங்குளிரில் நடுங் கும் ஏழைகளுக்கு ஒரு சேவை</title>
+				<feature>இளைஞர்களுக்கு/மாணவர்களுக்கு...</feature>
+				<page>005-005</page>
+				<allauthors>
+					<author> சு.மாதவரமணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஓர் அபூர்வ ஆன்மிக புருஷர் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author> நொச்சூர் ஸ்ரீவெங்கடராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு நெகிழ்வுச் சம்பவம்: உடலில்தான், உள்ளத்தில் அல்ல!</title>
+				<feature>இளைஞர்களுக்கு/மாணவர்களுக்கு...</feature>
+				<page>009-010</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தலங்களைத் தெரிந்துகொள்வோம் : நவராத்திரி நாயகி </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>011-011</page>
+				<allauthors>
+					<author>ராஜி ரகுநாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நமது ஆன்மிகப் பொறுப்பு</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>012-014</page>
+				<allauthors>
+					<author> அருட்செல்வர் நா.மகாலிங்கம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மகனின் நடிப்பைக் காண மகேசனே வந்தார்! </title>
+				<feature>உள்ளுணர்வுக் கதை</feature>
+				<page>015-015</page>
+				<allauthors>
+					<author> நூதனா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புதுத் தகவல்: சகோதரி நிவேதிதா பாரதியாரின் குரு </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>016-019</page>
+				<allauthors>
+					<author>வி.எஸ்.குஞ்சிதபாதம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி: திரை மறைவில் திறமைகள் </title>
+				<feature>இளைஞர்களுக்கு/மாணவர்களுக்கு...</feature>
+				<page>020-020</page>
+				<allauthors>
+					<author> எம்.பைரவ சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மாதா பிதா குரு </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>021-022</page>
+				<allauthors>
+					<author> எம்.பைரவ சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நல்லாசிரியரின் லட்சணங்கள் </title>
+				<feature>ஆசிரியர்களுக்கு...</feature>
+				<page>023-023</page>
+				<allauthors>
+					<author> பேராசிரியர் பாலாஜி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>டாலர் அரசனும் ஆசை அரசியும் </title>
+				<feature>கரு உண்மை; உரு கற்பனை</feature>
+				<page>024-027</page>
+				<allauthors>
+					<author>  பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ணரும் ஸ்ரீசைதன்யரும் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>028-031</page>
+				<allauthors>
+					<author> சுபத்ரா கலியபெருமாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ராமகிருஷ்ண மடம் மிஷனின் பணிகள் 2012-2013</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>032-034</page>
+				<allauthors>
+					<author> சுவாமி சுஹிதானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு குட்டிக் கதை: அற்புதத்தின் விலை என்ன? </title>
+				<feature>இளைஞர்களுக்கு/மாணவர்களுக்கு...</feature>
+				<page>035-035</page>
+				<allauthors>
+					<author> கவிஞர் மீ.விஸ்வநாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தேசிய இளைஞர் தின விழா </title>
+				<feature>இளைஞர்களுக்கு/மாணவர்களுக்கு...</feature>
+				<page>036-038</page>
+				<allauthors>
+					<author> ராஜராஜேஸ்வரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வேதாந்தச் சிந்தனை: அத்யாத்ம படன விவரணம் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>039-042</page>
+				<allauthors>
+					<author> கண்ணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : ஒளவையாரின் அதிரடி பதில் </title>
+				<feature>இளைஞர்களுக்கு/மாணவர்களுக்கு...</feature>
+				<page>043-043</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>வண்ணப் படக்கதை: குருஞானசம்பந்தர் வரலாறு</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>044-047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>பத்திரிகைகளின் பாராட்டுதல்களில் ஸ்ரீராமகிருஷ்ண விஜயம் சிறப்பிதழ்</title>
+				<feature>இளைஞர்களுக்கு/மாணவர்களுக்கு...</feature>
+				<page>048-048</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="04" month="04" year="2014">
+			<entry>
+				<title>அம்பிகை காப்பாற்றினாள்!  </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>003-004</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தவறுகளைப் பெரியோர்கள் கண்டிக்காவிட்டால்... </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>005-005</page>
+				<allauthors>
+					<author> ரைட் ஹானரபிள் வி.எஸ். சீனிவாச சாஸ்திரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுவாமி விவேகானந்தரின் தலைமைப் பண்புகள் </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author> சுவாமி சர்வபிரியானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கல்லணை ஆஞ்சநேயர்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>009-011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>பாரதத்தின் பலம்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>012-013</page>
+				<allauthors>
+					<author> சுவாமி கௌதமானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமநாம மகிமை</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>014-014</page>
+				<allauthors>
+					<author> சுவாமி கமலாத்மானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆசிரியரின் விளையாட்டும் மாணவரின் விளையாட்டும் -  ஒரு சுவாரசியமான கதை</title>
+				<feature>ஆசிரியர்களுக்கு...</feature>
+				<page>015-015</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>புதுத் தகவல்கள் : நமது முன்னோர்களின் விமான ஆராய்ச்சி </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>016-019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஓர் அபூர்வ ஆன்மிகப் புருஷர் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>020-023</page>
+				<allauthors>
+					<author> நொச்சூர் ஸ்ரீவெங்கடராமன் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மனித குலத்தை நேசித்த விஞ்ஞான ரிஷிகள்</title>
+				<feature>கரு உண்மை; உரு கற்பனை</feature>
+				<page>024-027</page>
+				<allauthors>
+					<author> பாமதிமைந்தன் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>விஷ்ணு சகஸ்ரநாமம் கூறும் ராமகீர்த்தி </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>028-029</page>
+				<allauthors>
+					<author> சி.வே.ராதாகிருஷ்ண சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உலகிலேயே மிகப் பெரிய பள்ளி நம் நாட்டில்தான்! </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>030-032</page>
+				<allauthors>
+					<author> காம்கேர் புவனேஸ்வரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப்புதிர்: வாமனர் பூஜித்த தலம் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>033-034</page>
+				<allauthors>
+					<author> தஞ்சை ஜெயபாலன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புதியதைக் கண்டுபிடி! </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>035-035</page>
+				<allauthors>
+					<author> ஒரு கதை</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தியாகராஜ ஸ்வாமிகளின் தசாவதாரக் கீர்த்தனை </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>036-038</page>
+				<allauthors>
+					<author> நஜன் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நவீன இந்தியாவின் நாயகன்</title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>039-041</page>
+				<allauthors>
+					<author> சத்தீஷ்கர் ஆளுநர் மேதகு சேகர் தத்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமநாம சங்கீர்த்தனமும் ஸ்ரீராமகிருஷ்ண மடங்களும் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>042-043</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வண்ணப் படக்கதை:  வாலாஜாபேட்டை ஸ்ரீவேங்கடரமண பாகவதர்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>044-047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : போதனையும் வேதனையும்</title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>048-048</page>
+				<allauthors>
+					<author>தென்கச்சி சுவாமிநாதன்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="05" year="2014">
+			<entry>
+				<title>ஆத்ம போதமும் தெய்வ போதமும் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>003-005</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இன்று சுவாமி விவேகானந்தரின் தேவை! </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>006-008</page>
+				<allauthors>
+					<author> எஸ்.கே.எம். மயிலானந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புத்தரும் விவேகானந்தரும் </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>009-009</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அந்த நாட்கள் வருமா? </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>010-011</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சித்ரகுப்தனுடன் ஒரு சந்திப்பு </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>012-014</page>
+				<allauthors>
+					<author> க.ஜெயராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இரண்டு உண்மைச் சம்பவங்கள் : உயிர் காப்பவனுக்கு இப்போதே முக்தி </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>015-015</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஏகசுலோக பிரகரணம் ஆதிசங்கரர் அருளிய ஒரே சுலோகத்தில் உபநிடதசாரம்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>016-019</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி : அருணாசலப் பிரதேசத்திற்கு அரணாக விளங்கியவர் </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author> நா.சுப்பிரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸ்ரீராமாநுஜரை வலம் வந்தால்... </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>023-023</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>புகைப்படப்புதிர்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>024-024</page>
+				<allauthors>
+					<author> பாரியூர் அம்மன் கோயில் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>தன்னம்பிக்கைத் தம்பதி</title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>025-025</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>குருதேவரின் திருவடியை அடைந்த சுவாமி கீதானந்தர்! </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>026-027</page>
+				<allauthors>
+					<author> பைரவசுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கூண்டுப் பறவை </title>
+				<feature>கரு உண்மை; உரு கற்பனை</feature>
+				<page>028-031</page>
+				<allauthors>
+					<author> பாமதி மைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அடியாரிடம் இறை உணவு </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>032-035</page>
+				<allauthors>
+					<author> ஸ்வர்ண ஜெயந்தி அசோகன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறப்புக் கட்டுரை : இந்து தர்ம அரசியல் தலைவர்களின் தகுதிகள்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>036-040</page>
+				<allauthors>
+					<author> சுவாமி ஹர்ஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு குட்டிக்கதை : எமன் சொன்ன ஆறுதல்!</title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>041-041</page>
+				<allauthors>
+					<author>செவல்குளம் ஆச்சா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>எமனே என் அருகே வா !</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>042-044</page>
+				<allauthors>
+					<author> லண்டன் சுவாமிநாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வண்ணப் படக்கதை: புத்தர் ஏற்கவில்லை!</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>045-047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : மேல்மாடி காலி </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>048-048</page>
+				<allauthors>
+					<author>தொகுப்பு: நெ.இராமன்</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="06" year="2014">
+			<entry>
+				<title>ஸ்ரீராமகிருஷ்ணர் எனும் கங்கை </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>003-005</page>
+				<allauthors>
+					<author> சுவாமி ஆசுதோஷானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title> மாணவர் சக்தி : நம்பிக்கை நல்கும் மாணவர்கள் </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>006-007</page>
+				<allauthors>
+					<author> சுவிர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பாரதத்திற்கு மட்டுமல்ல; பாருக்கே வேண்டியவர்! </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>008-011</page>
+				<allauthors>
+					<author> மாண்புமிகு மேற்கு வங்க முதல்வர் மமதா பானர்ஜி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மனதை வசப்படுத்து; மூளை உன் வசமாகும்! </title>
+				<feature>ஆசிரியர் உலகம்</feature>
+				<page>012-015</page>
+				<allauthors>
+					<author> சுவாமி விமூர்த்தானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிரமமின்றி ஜபம் செய்ய... </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>016-018</page>
+				<allauthors>
+					<author> சுவாமி புத்திதானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஒரு கதை: எல்லா ஆற்றலும் உன்னுள்ளே! </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>019-019</page>
+				<allauthors>
+					<author> சுவாமி விவேகானந்தர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>வாய்ச்சொல் அருள்வீர்!</title>
+				<feature>சிறுகதை</feature>
+				<page>020-022</page>
+				<allauthors>
+					<author>பாமதிமைந்தன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>புகைப்படப் புதிர் : ஈசன் சம்பந்தருக்கு நினைவூட்டிய தலம் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>023-023</page>
+				<allauthors>
+					<author> தஞ்சை ஜெயபாலன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சுய முன்னேற்றப் பகுதி: தினமும் லட்சம் பேருக்கு அன்னதானம் </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>024-025</page>
+				<allauthors>
+					<author>காம்கேர் புவனேஸ்வரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறப்புக் கட்டுரை : தைத்திரீய உபநிஷதம் கூறும் மாணவர்களுக்கான பத்து கட்டளைகள்</title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>026-031</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>நமது தேசிய நிர்வாகத் திறனுக்கு ஒரு சான்று டப்பாவாலா </title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>032-035</page>
+				<allauthors>
+					<author> எம்.பைரவ சுப்ரமணியம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>மகா சரசுவதியின் அருள் பெற்ற சிலர்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>036-038</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>ஹாஸ்ய யோகம் : கல்கியின் நகைச்சுவை</title>
+				<feature>இளைஞர்கள் / மாணவர்களுக்கு...</feature>
+				<page>039-039</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>கோவாவில் சுவாமி விவேகானந்தர்</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>040-041</page>
+				<allauthors>
+					<author> மோகனா சூரியநாராயணன் </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>நன்மையின் சக்தியை நம்பு</title>
+				<feature>குறும்படம் தரும் அரும்பாடம்</feature>
+				<page>042-044</page>
+				<allauthors>
+					<author> ராஜராஜேஸ்வரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>படக்கதை: அன்னை ஸ்ரீசாரதையின் இரண்டு பிரார்த்தனைகள் </title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>045-047</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title> ரூ.34,000 பரிசுகள் உள்ள சிறப்புச் சிறுகதைப் போட்டி</title>
+				<feature>பக்தர்கள் / அன்பர்களுக்கு...</feature>
+				<page>048-048</page>
+				<allauthors/>
+			</entry>
+		</issue>	
 	</volume>
 </rv>
