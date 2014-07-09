@@ -1,0 +1,327 @@
+@font-face {
+	font-family: Droid Sans;
+	src: url('DroidSans.ttf');
+}
+html, body {
+	background-repeat: no-repeat;
+	background-color: #F9F4F0;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 1.5;
+	margin: 0;
+	font-family: sans-serif;
+	height: 100%;
+	font-family: Droid Sans;
+	color: #333333;
+	letter-spacing: 0px;
+	background-image:url('../images/texture4.jpg');
+	background-repeat:repeat;
+}
+.page{
+	width: 960px;
+	background-color: #EDE6DC;
+	box-shadow: 0px 0px 7px #333333;
+	-moz-box-shadow: 0px 0px 7px #333333;
+	margin: 0.5em auto 1.5em auto;
+	min-height: 100%;
+	background-repeat:repeat;
+	background-image:url('../images/texture.jpg');
+}
+.header{
+	width: 100%;
+	clear: both;
+	min-height: 9em;
+}
+.mainbody{
+	width: 95%;
+	clear: both;
+	min-height: 20em;
+	margin: 0 auto 0 auto;
+}
+.footer{
+	width: 100%;
+	clear: both;
+	text-align: center;
+	padding: 2.5em 0 0 0;
+}
+.footer img{
+	margin-bottom: 1em;
+}
+.title{
+	margin: 2em 0 0 0em;
+	float: left;
+}
+.logo{
+	margin: 1em 0em 0em 0em;
+	float: left;
+}
+.nav{
+	font-size: 0.85em;
+	float: right;
+	margin: 4em 1em 0 0;
+	font-family: Droid Sans;
+	letter-spacing: 2px;
+	color: #333333;
+	padding: 0 1em 1.5em 0;
+	border-bottom: 1px solid #999999;
+	border-radius: 0 0 90px 0 / 0 0 40px 0;
+	-moz-border-radius: 0 0 90px 0 / 0 0 40px 0;
+}
+.nav li{
+	display: inline;
+	padding: 0 1em 0 1em;
+}
+.nav li a{
+	color: #333333;
+	text-decoration: none;
+}
+.nav li a.active, .nav li a:HOVER{
+	color: #333333;
+	text-decoration: underline;
+}
+.maintitle{
+	font-size: 1.1em;
+	width: 98%;
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	padding: 0.5em 0em 0.5em 1em;
+	background-repeat:repeat;
+	background-image:url('../images/texture3.jpg');
+	background-color: #9E1E1D;
+	color: #FFD700;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	box-shadow: 0px 0px 3px #999999;
+	-moz-box-shadow: 0px 0px 3px #999999;
+}
+.rule {
+	height: 1px;
+	background-color: #8B0000;
+	width: 100%;
+	margin: 0.1em 0 1em 0;
+}
+.archive_nav{
+	width: 9em;
+	min-height: 15em;
+	background-color: #F9F4F0;
+	border-left: 1px solid #8B0000;
+	float: right;
+	margin: 2em 1em 0 0;
+	box-shadow: 3px 3px 3px #999999;
+	-moz-box-shadow: 3px 3px 3px #999999;
+	text-align: center;
+	border-radius: 4.5em 0px 4.5em 4.5em / 4.5em 0px 4.5em 4.5em;
+	-moz-border-radius: 4.5em 0px 4.5em 4.5em / 4.5em 0px 4.5em 4.5em;
+	background-repeat:repeat;
+	background-image:url('../images/texture2.jpg');
+}
+.archive_nav li{
+	padding: 0.25em 0 0.25em 0;
+}
+.archive_nav li a{
+	text-decoration: none;
+	color: #8B0000;
+}
+.archive_nav li a:HOVER, .archive_nav li a.active{
+	text-decoration: underline;
+	color: #8B0000;
+}
+.archive_nav img{
+	margin: 1em 0 0.5em 5.5em;
+}
+.archive_holder_back{
+	float: left;
+	width: 43em;
+	margin: 0.25em 0 -0.25em 0.25em;
+	min-height: 20em;
+	background-color: #F9F4F0;
+	box-shadow: 0px 0px 2px #999999;
+	-moz-box-shadow: 0px 0px 2px #999999;
+	background-repeat:repeat;
+	background-image:url('../images/texture2.jpg');
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+.archive_holder{
+	float: left;
+	width: 43em;
+	margin: 0.25em 0 -0.25em 0.25em;
+	padding: 1.25em 0 0 0em;
+	background-color: #F9F4F0;
+	box-shadow: 0px 0px 2px #999999;
+	-moz-box-shadow: 0px 0px 2px #999999;
+	background-repeat:repeat;
+	background-image:url('../images/texture2.jpg');
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+.archive_holder li:first-of-type{
+	border-top: none;
+}
+.archive_holder li{
+	list-style-image:url('../images/hole.png');
+	margin-left: 2.5em;
+	margin-right: 2.5em;
+	font-size: 1em;
+	padding: 1em 0 1em 0.5em;
+	border-top: 1px dotted #999999;
+}
+.archive_holder p:first-of-type{
+	text-align: justify;
+	padding: 0em 1.5em 1em 1.5em;
+	margin: -3.5em 0 0 2em;
+	font-size: 0.9em;
+}
+.archive_holder p{
+	text-align: justify;
+	padding: 0em 1.5em 1em 1.5em;
+	font-size: 0.9em;
+}
+.titlespan {
+	font-size: 1em;
+	color: #000000; 
+}
+.titlespan a{
+	font-size: 1em;
+	color: #000000;
+	text-decoration:none;
+}
+.titlespan a:Hover{
+	font-size: 1em;
+	color: #000000;
+	text-decoration:underline;
+}
+.featurespan {
+	font-size: 0.95em;
+	color: #800000; 
+}
+.featurespan a{
+	font-size: 1em;
+	color: #800000;
+	text-decoration:none;
+}
+.featurespan a:Hover{
+	font-size: 1em;
+	color: #800000;
+	text-decoration:underline;
+}
+.authorspan {
+	font-size: 1em;
+	color: #228B22; 
+}
+.authorspan a{
+	font-size: 1em;
+	color: #228B22;
+	text-decoration:none;
+}
+.authorspan a:Hover{
+	font-size: 1em;
+	color: #228B22;
+	text-decoration:underline;
+}
+.yearspan {
+	font-size: 0.95em;
+	color: #B8860B; 
+}
+.yearspan a{
+	font-size: 1em;
+	color: #B8860B;
+	text-decoration:none;
+}
+.yearspan a:Hover{
+	font-size: 1em;
+	color: #B8860B;
+	text-decoration:underline;
+}
+.tag{
+	float: left;
+	margin-left: -4.1em;
+	margin-top: -1.6em;
+}
+.editor{
+	margin: 0 2.5em 2.5em 2.5em;
+	text-align: center;
+	width: 43em;
+	font-size: 0.9em;
+}
+.thead{
+	font-weight: bold;
+	border-bottom: 1px solid #8B0000;
+	height: 2.5em;
+}
+.editor tr{
+	border-bottom: 1px solid #8B0000;;
+}
+.editor tr:last-of-type{
+	border-bottom: none;
+}
+.eleft{
+	text-align: left;
+	height: 4em;
+	vertical-align: middle;
+}
+.emiddle{
+	vertical-align: middle;
+}
+.eright{
+	vertical-align: middle;
+}
+.color{
+	color: #8B0000;
+ }
+.color a{
+	color: #8B0000;
+ }
+.helptable{
+	margin: 0 auto 2.5em auto;
+	text-align: left;
+	width: 43em;
+	font-size: 0.8em;
+}
+.thead{
+	font-weight: bold;
+	border-bottom: 1px solid #8B0000;
+	height: 2.5em;
+}
+.helptable tr{
+	border-top: 1px solid #8B0000;;
+}
+.helptable tr:last-of-type{
+	border-bottom: 1px solid #8B0000;;
+}
+.hleft{
+	vertical-align: middle;
+	width: 23%;
+	border-right: 1px solid #8B0000;
+	padding: 0.5em 1em 0.5em 0.5em;
+	text-align: right;
+}
+.hright{
+	vertical-align: middle;
+	width: 75%;
+	padding: 0.5em 0.5em 0.5em 1em;
+}
+.credit{
+	width: 60%;
+	margin: 0 0 1em 2em;
+	padding: 0em 0 1em 1em;
+	vertical-align: bottom;
+	text-align: left;
+	font-size: 0.8em;
+}
+.credit a{
+	color: #8B0000;
+}
+.credit img{
+	float: left;
+	margin: 0 0.5em 0 0;
+}
+.credit a img{
+	border: none;
+}
+.right {
+	float: right;
+}
