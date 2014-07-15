@@ -67,7 +67,7 @@
 			<p>A plan to reach and benefit every segment of society was conceived. First, the focus shifted on to the Youth. &ldquo;Catch them Young&rdquo; became the theme and schools were the field to be ploughed. Parallel plans were drawn to reach out to other segments to revive the cultural heritage of India in the areas of spirituality, culture, traditions, temples, scriptures, values etc.</p>
 			<p>Based on understanding the needs of current readers, longing for in the above mentioned areas of cultural, spiritual and value insights, the quality and content were upgraded. As a result, the circulation accelerated to reach newer heights month on month. The divergence in content appealed to every section of the society, children, youth, parents, office goers, students, teachers, mothers, elders etc. It was a sort of revolution and word of mouth on the change in dimension spreading among the Devotees far and wide. The magazine crossed national boundaries and reached a number of foreign countries.</p>
 			<p>Vijayam, today, enjoys the status of being a dear friend, counsellor in hospitals, old age homes, police stations, prisons etc.</p>
-			<p>Now, in 2012, the circulation has crossed 1,50,000 by the grace of Bhagawan Sri Ramakrishna.</p><br />
+			<p>In 2012, the circulation has crossed 1,50,000 by the grace of Bhagawan Sri Ramakrishna.</p><br />
 		</div>
 		</div>
 		</div>

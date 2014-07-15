@@ -395,6 +395,28 @@ select{
 	margin: -2.5em 0 0em -10em;
 	position: absolute;
 }
+.num_result{
+	border: none;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+iframe{
+    overflow: hidden;
+    height: 60px;
+    width: 150px;
+    float: right;
+}
+#loader{
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+	display: none;
+}
+
+#loader img{
+	float: right;
+	margin-right: 50px;
+}
 #lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
 #lightbox img{ width: auto; height: auto;}
 #lightbox a img{ border: none; }

@@ -39,6 +39,7 @@ include("connect.php");
 
 $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 $rs = mysql_select_db($database,$db) or die("No Database");
+mysql_query("set names utf8");
 
 $query = "select distinct feature from article order by feature";
 $result = mysql_query($query);

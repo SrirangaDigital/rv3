@@ -39,6 +39,7 @@ include("connect.php");
 
 $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 $rs = mysql_select_db($database,$db) or die("No Database");
+mysql_query("set names utf8");
 
 $query = "select distinct volume, year from article order by volume";
 $result = mysql_query($query);
@@ -66,7 +67,7 @@ for($i=1;$i<=$num_rows;$i++)
 	echo "<td><span class=\"volspan\"><a href=\"issue.php?vol=$volume&year=$year\">$year<br /><span class=\"yearspan\">(Volume $volume_int)</span></a></span></td>";
 }
 
-echo "</tr></table><div class=\"note\">Note: From 2001 to 2012, jump in page numbers correspond to pages containing advertisements</div></li>";
+echo "</tr></table><div class=\"note\">Note: From 2001 to 2012, jump in page numbers correspond to pages containing advertisements.</div></li>";
 ?>			
 		</div>
 		</div>
