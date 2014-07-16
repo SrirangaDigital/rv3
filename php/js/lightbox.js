@@ -48,7 +48,6 @@
 LightboxOptions = Object.extend({
     fileLoadingImage:        'images/loading.gif',     
     fileBottomNavCloseImage: 'images/closelabel.gif',
-    fileBottomNavPrintImage: 'images/printlabel.gif',
 
     overlayOpacity: 0.8,   // controls transparency of shadow overlay
 
@@ -154,9 +153,6 @@ Lightbox.prototype = {
                         Builder.node('span',{id:'numberDisplay'})
                     ]),
                     Builder.node('div',{id:'bottomNav'}, [
-						Builder.node('a',{id:'bottomNavPrint', href: '#' },
-							Builder.node('img', { src: LightboxOptions.fileBottomNavPrintImage })
-						),
 						Builder.node('a',{id:'bottomNavClose', href: '#' },
 							Builder.node('img', { src: LightboxOptions.fileBottomNavCloseImage })
 						)
@@ -173,7 +169,6 @@ Lightbox.prototype = {
 		$('nextLink').observe('click', (function(event) { event.stop(); this.changeImage(this.activeImage + 1); }).bindAsEventListener(this));
 		$('loadingLink').observe('click', (function(event) { event.stop(); this.end(); }).bind(this));
 		$('bottomNavClose').observe('click', (function(event) { event.stop(); this.end(); }).bind(this));
-		$('bottomNavPrint').observe('click', (function(event) { event.stop(); window.print() }).bind(this));
 
         var th = this;
         (function(){
@@ -336,11 +331,6 @@ Lightbox.prototype = {
             this.caption.update(this.imageArray[this.activeImage][1]).show();
         }
         
-        // if image is part of set display 'Image x of x' 
-        if (this.imageArray.length > 1){
-            this.numberDisplay.update( LightboxOptions.labelImage + ' ' + (this.activeImage + 1) + ' ' + LightboxOptions.labelOf + '  ' + this.imageArray.length).show();
-        }
-
         new Effect.Parallel(
             [ 
                 new Effect.SlideDown(this.imageDataContainer, { sync: true, duration: this.resizeDuration, from: 0.0, to: 1.0 }), 
