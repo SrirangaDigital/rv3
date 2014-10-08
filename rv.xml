@@ -112379,7 +112379,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>034-034</page>
 				<allauthors>
-					<author>தமிழாக்கம்: கே.ஜெயராமன்</author>
+					<author>கே.ஜெயராமன்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -112423,7 +112423,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>045-047</page>
 				<allauthors>
-					<author>சிவபிரசாத்</author>
+					<author>விமூர்த்தானந்தர், சுவாமி</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -112455,7 +112455,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>010-012</page>
 				<allauthors>
-					<author>ஓவியம் : சதாசிவம்</author>
+					<author>மோகனா சூரியநாராயணன்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -112630,7 +112630,9 @@
 				<title>படக்கதை: பண்டரிபுரம் தோன்றிய வரலாறு</title>
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>010-013</page>
-				<allauthors/>
+				<allauthors>
+					<author>மோகனா சூரியநாராயணன்</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ராமாயணத்தைப் போற்றும் தாய்லாந்து</title>
@@ -112715,7 +112717,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>040-043</page>
 				<allauthors>
-					<author>ஸ்ரீசிரத்தாலு ரானடே, அரவிந்த ஆசிரமம்.</author>
+					<author>ஸ்ரீசிரத்தாலு ரானடே, அரவிந்த ஆசிரமம்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -112741,7 +112743,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>006-009</page>
 				<allauthors>
-					<author>பவஹாரி பாபாவின் வாழ்வில் ஓர் அதிசயம்</author>
+					<author>எம்.பைரவ சுப்ரமணியம்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -112965,7 +112967,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>035-035</page>
 				<allauthors>
-					<author>தொகுப்பு : க.ஜெயராமன்</author>
+					<author>க.ஜெயராமன்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -113013,7 +113015,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>045-045</page>
 				<allauthors>
-					<author>ஓவியம் : தாகோஜி சிவபிரசாத்</author>
+					<author>எம்.பைரவ சுப்ரமணியம்</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -113156,7 +113158,9 @@
 				<title>படக்கதை : பக்தர் பரமேஷ்டி</title>
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>045-045</page>
-				<allauthors/>
+				<allauthors>
+					<author>மோகனா சூரியநாராயணன்</author>
+				</allauthors>
 			</entry>
 		</issue>
 		<issue inum="08" month="08" year="2013">
@@ -113272,9 +113276,7 @@
 				<title>சுவாமி விவேகானந்தர்</title>
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>039-040</page>
-				<allauthors>
-					<author>தமிழ் தொலைக்காட்சித் தொடர்</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>சீற்றம் வந்தாலும் சிதறாத பக்தி!</title>
@@ -113295,7 +113297,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>045-045</page>
 				<allauthors>
-					<author>ஓவியம் : கோவி</author>
+					<author>டி.எம்.சுந்தரராமன்</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -113312,7 +113314,9 @@
 				<title>உங்களை நெகிழ வைக்கும் ஒரு நிகழ்வு : ஒரு ரயில் பெட்டியில்....</title>
 				<feature>உள்ளுணர்வுக் கதைகள்</feature>
 				<page>005-005</page>
-				<allauthors/>
+				<allauthors>
+					<author>நூதனா</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>ஆனைமுகத்தோனின் அருள் கதைகள்</title>
@@ -113348,7 +113352,9 @@
 				<title>இளைஞர்களின் கேள்விகளுக்கு நீதியரசர் சந்துரு பதிலளிக்கிறார்!</title>
 				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு</feature>
 				<page>015-016</page>
-				<allauthors/>
+				<allauthors>
+					<author>நீதியரசர் சந்துரு</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>நோய் தீர்க்கும் ஸ்ரீதன்வந்திரி பகவான்</title>
@@ -113414,7 +113420,9 @@
 				<title>சுய முன்னேற்றப் பகுதி : வள்ளுவர் வழியில் மேல்நாட்டு மேலாண்மை</title>
 				<feature>இளைஞர்களுக்கு/மாணவ-மாணவிகளுக்கு</feature>
 				<page>040-043</page>
-				<allauthors/>
+				<allauthors>
+					<author>வி .நாராயணன்</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>தமிழ் பேசினால் தண்டனை!</title>
@@ -113428,7 +113436,9 @@
 				<title>படக்கதை : தெய்வ அருளால் தோன்றிய திருப்பெருந்துறை</title>
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>045-045</page>
-				<allauthors/>
+				<allauthors>
+					<author>மோகனா சூரியநாராயணன்</author>
+				</allauthors>
 			</entry>
 		</issue>
 		<issue inum="10" month="10" year="2013">
@@ -113549,7 +113559,7 @@
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>045-045</page>
 				<allauthors>
-					<author>ஓவியம் : ஆர்.வெங்கட்</author>
+					<author>எம்.பைரவ சுப்ரமணியம்</author>
 				</allauthors>
 			</entry>
 		</issue>
@@ -113646,15 +113656,15 @@
 				<title>கங்காஷ்டகம்</title>
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>030-031</page>
-				<allauthors>
-					<author>தமிழாக்கம்</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title>கங்கா மட்டுமல்ல, காவிரி ஸ்நானமும் வேண்டும்!</title>
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>032-033</page>
-				<allauthors/>
+				<allauthors>
+					<author>எம்.பைரவ சுப்ரமணியம்</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>இளைஞன் எதை வாசிக்க வேண்டும்?</title>
@@ -113680,7 +113690,9 @@
 				<title>படக்கதை : ஜீவஜோதி சித்தர் சங்கு சுவாமிகள் ஓவியம் : சங்கர்</title>
 				<feature>பக்தர்களுக்கு/அன்பர்களுக்கு</feature>
 				<page>045-045</page>
-				<allauthors/>
+				<allauthors>
+					<author>எம்.பைரவ சுப்ரமணியம்</author>
+				</allauthors>
 			</entry>
 		</issue>
 		<issue inum="12" month="12" year="2013">
